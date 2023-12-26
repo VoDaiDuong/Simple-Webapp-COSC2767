@@ -16,7 +16,7 @@
     <div class="jumbotron">
       <h1 class="display-4">Hello world for DevOps Students!</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
-      <p class="lead">Triggering Automatica build sequence for Jenkins and Deploy to Docker test yeehaww !</p>
+      <p class="lead">Change some line for assignment 2 test !</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
