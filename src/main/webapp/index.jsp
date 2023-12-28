@@ -16,7 +16,7 @@
     <div class="jumbotron">
       <h1 class="display-4">Hello world for DevOps Students!</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
-      <p class="lead">Change some line for assignment 2 test !</p>
+      <p class="lead">Triggering Automatic Build on 28/12/2023 at 1:28PM </p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
